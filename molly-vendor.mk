@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/molly/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
     vendor/google/molly/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
     vendor/google/molly/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
-    vendor/google/molly/proprietary/lib/hw/bluetooth.default.so:system/lib/hw/bluetooth.default.so \
     vendor/google/molly/proprietary/lib/hw/gralloc.tegra4.so:system/lib/hw/gralloc.tegra4.so \
     vendor/google/molly/proprietary/lib/hw/hdmi_cec.tegra4.so:system/lib/hw/hdmi_cec.tegra4.so \
     vendor/google/molly/proprietary/lib/hw/hwcomposer.tegra4.so:system/lib/hw/hwcomposer.tegra4.so \
