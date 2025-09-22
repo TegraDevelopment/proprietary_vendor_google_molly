@@ -95,7 +95,7 @@ include $(CLEAR_VARS)
 LOCAL_MODULE := LeanbackLauncher
 LOCAL_MODULE_OWNER := google
 LOCAL_SRC_FILES := proprietary/priv-app/LeanbackLauncher/LeanbackLauncher.apk
-LOCAL_CERTIFICATE := platform
+LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_SUFFIX := .apk
@@ -128,7 +128,7 @@ include $(CLEAR_VARS)
 LOCAL_MODULE := TV
 LOCAL_MODULE_OWNER := google
 LOCAL_SRC_FILES := proprietary/priv-app/TV/TV.apk
-LOCAL_CERTIFICATE := platform
+LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_SUFFIX := .apk
